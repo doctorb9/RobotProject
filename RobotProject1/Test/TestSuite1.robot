@@ -20,7 +20,10 @@ MySecondTest
 MyThirdTest 
     Log    I am inside 3nd test 
     [Tags]    smoke  
-          
+    
+MyFourthTest     
+   Log    I am inside 4nd test  
+            
 # FirstSeleniumTest
     # Open Browser    https://google.com    chrome
     # Set Browser Implicit Wait    5
